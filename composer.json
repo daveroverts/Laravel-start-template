@@ -16,7 +16,8 @@
         "fideloper/proxy": "^4.0",
         "laravel/framework": "5.7.*",
         "laravel/tinker": "^1.0",
-        "lorisleiva/laravel-deployer": "^0.2.6"
+        "lorisleiva/laravel-deployer": "^0.2.6",
+        "spatie/laravel-activitylog": "^3.2"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.2",
