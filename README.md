@@ -15,3 +15,5 @@ This is my Laravel start template. I always use this to begin my Laravel project
 - [laravel/telescope](https://github.com/laravel/telescope)
 - [predis/predis](https://github.com/nrk/predis)
 - [beyondcode/laravel-self-diagnosis](https://github.com/beyondcode/laravel-self-diagnosis)
+- [beyondcode/laravel-query-detector](https://github.com/beyondcode/laravel-query-detector)
+    - Note: Outputs to ``Browser console``, ``Debugbar``, and ``Log``. It does **not** output as a ``Alert`` (default behaviour). This of course can be changed in ``config/querydetector.php``
