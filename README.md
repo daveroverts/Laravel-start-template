@@ -12,3 +12,4 @@ This is my Laravel start template. I always use this to begin my Laravel project
 - [BenSampo/laravel-enum](https://github.com/BenSampo/laravel-enum)
 - [cviebrock/eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable)
 - [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog)
+- [laravel/telescope](https://github.com/laravel/telescope)
