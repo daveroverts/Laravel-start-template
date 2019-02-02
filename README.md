@@ -14,3 +14,4 @@ This is my Laravel start template. I always use this to begin my Laravel project
 - [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog)
 - [laravel/telescope](https://github.com/laravel/telescope)
 - [predis/predis](https://github.com/nrk/predis)
+- [beyondcode/laravel-self-diagnosis](https://github.com/beyondcode/laravel-self-diagnosis)
